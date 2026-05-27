@@ -25,7 +25,7 @@ Exemplo de aplicação PHP com CRUD completo, deploy automatizado via **GitHub A
 
 ---
 
-## 🚀 Rodando Localmente - Teste
+## 🚀 Rodando Localmente - Teste Quarta
 
 ```bash
 # Build da imagem
